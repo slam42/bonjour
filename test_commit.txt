@@ -1,2 +1,12 @@
 test
+<<<<<<< HEAD
 bonjour it's alois.
+=======
+bonjour
+bonjour
+bonjour mes poulets
+salou
+bonjour
+hello world
+Bonjour
+>>>>>>> 71496159648e9a13c89c1db6e585966c8bd2ab2c
