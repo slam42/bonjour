@@ -4,9 +4,13 @@ bonjour it's alois.
 =======
 bonjour
 bonjour
-bonjour mes poulets
-salou
+Hello I'm Florian
+salou Andréa
 bonjour
 hello world
 Bonjour
+<<<<<<< HEAD
 >>>>>>> 71496159648e9a13c89c1db6e585966c8bd2ab2c
+=======
+Bonjour (VT)
+>>>>>>> 4c275ba365142934c2bda3ed62b899bad57ed237
